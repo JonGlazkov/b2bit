@@ -11,7 +11,7 @@
 </i>
 
 ![Resultado final do projeto](https://github.com/JonGlazkov/b2bit/blob/main/src/Assets/projeto%20finalizado.png)
-
+![Resultado final do projeto](https://github.com/JonGlazkov/b2bit/blob/main/src/Assets/projeto-finalizado-2.png)
 <h4 align="center"><a href="https://b2bit.vercel.app">Clique para visitar o projeto</a></h4>
 
 ---
